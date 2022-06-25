@@ -4,4 +4,4 @@
 [바로가기](https://github.com/VoidAsMad/RCNS-Bot-Studio/blob/main/Teams%20of%20Service.md)
 
 #### RCNS Bot Studio 개인정보 수집•이용 동의서
-[바로가기](https://github.com/VoidAsMad/user-Gura/blob/main/Privacy%20Policy.md)
+[바로가기](https://github.com/VoidAsMad/RCNS-Bot-Studio/blob/main/Privacy%20Policy.md)
