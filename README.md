@@ -1,2 +1,8 @@
-# RCNS-Bot-Studio
-Discord봇을 주로 개발 및 외주를 받고 있는 서버입니다.
+# RCNS Bot Studio
+[![](https://discordapp.com/api/guilds/919390564363931738/embed.png?style=banner2)](https://discord.gg/Stj4b5v)
+#### RCNS Bot Studio 이용약관
+[바로가기](https://github.com/VoidAsMad/RCNS-Bot-Studio/blob/main/Teams%20of%20Service.md)
+
+#### RCNS Bot Studio 개인정보 수집•이용 동의서
+[바로가기](https://github.com/VoidAsMad/user-Gura/blob/main/Privacy%20Policy.md)
+
